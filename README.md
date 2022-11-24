@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on CV and Affective Computing.
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellojialee&show_icons=true&theme=transparent&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellojialee)](https://github.com/anuraghazra/github-readme-stats)
