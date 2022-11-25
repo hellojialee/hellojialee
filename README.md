@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on CV and Affective Computing.
+- 🌱 I’m currently learning some interesting thoerys that can be diagrammed.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellojialee&show_icons=true&theme=transparent&count_private=true)
