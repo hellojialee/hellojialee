@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Computer Vision and Multimodal Sentiment Analysis.
+- 🔭 I’m currently working on Computer Vision and Multimodal Emotion Analysis, and interested in Self-Supervised Learning.
 - 🌱 I’m currently learning some interesting thoerys that can be diagrammed.
 
 
