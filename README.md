@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Computer Vision and Multimodal Emotion Recognition.
-- 🌟 I'm currently interested in Neural Networks and Self-Supervised Learning.
-- 🌱 I’m currently learning some interesting thoerys that can be diagrammed.
+- 🔭 I’m currently working on Multimodal Emotion Recognition and Computer Vision.
+- 🌟 I'm interested in Neural Networks and Self-Supervised Learning.
+- 🌱 I like to learn some interesting thoerys that can be diagrammed.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellojialee&show_icons=true&theme=transparent&count_private=true)
