@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋 Hi there
+---
 <!--
 **hellojialee/hellojialee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Multimodal Emotion Recognition and Computer Vision.
-- 🌟 I'm interested in Neural Networks and Self-Supervised Learning.
 - 🌱 I like to learn some interesting thoerys that can be diagrammed.
+-  🔭 I'm interested in Neural Networks, Self-Supervised Learning, Computer Vision, etc.
 
 
+### ⚡ Research interests
+---
+`Multimodal Emotion Recognition`, `Facial Expression Recognition`, `Pose Estimation`
+
+### 🚀 Github statistics
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellojialee&show_icons=true&theme=transparent&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellojialee&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
