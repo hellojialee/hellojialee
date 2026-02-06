@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 
 ### 🚀 Github statistics
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellojialee&show_icons=true&theme=transparent&count_private=true)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=hellojialee&combine_all_yearly_contributions=true&limit=5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellojialee&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
