@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 ### 🚀 Github statistics
 ---
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=hellojialee&combine_all_yearly_contributions=true&limit=5)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=hellojialee&combine_all_yearly_contributions=true&limit=4)
 
