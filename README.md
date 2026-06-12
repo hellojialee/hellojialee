@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I like to learn some interesting thoerys that can be diagrammed.
--  🔭 I'm interested in Neural Networks, Self-Supervised Learning, Computer Vision, etc.
+-  🔭 I'm interested in Neural Networks, Representation Learning, Intelligent Robots, etc.
 
 
 ### ⚡ Research interests
