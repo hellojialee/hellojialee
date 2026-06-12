@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### ⚡ Research interests
 ---
-`Multimodal Emotion Recognition`, `Facial Expression Recognition`, `Vision-and-Language Navigation`, `Pose Estimation`
+`Multimodal Affective Computing`, `Embodied Intelligence`, `Vision-and-Language Navigation`, `Pose Estimation`
 
 ### 🚀 Github statistics
 ---
